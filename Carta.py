@@ -5,4 +5,4 @@ class Carta:
 
     def ver(self):
         return str(f"{self.numero} {self.palo}")
-    
+
